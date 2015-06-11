@@ -1,0 +1,661 @@
+Question 6b:
+~~~~~~~~~~~
+
+All results are with lower case, stop words, punctuation marks removal, etc.
+
+Results with stemming:
+
+Austen:
+
+
+Results for file: emma.txt
+~~~~~~~~~~~~~~~~
+
+Word: [churchil], counter: 207
+Word: [dai], counter: 234
+Word: [dear], counter: 243
+Word: [elton], counter: 340
+Word: [emma], counter: 785
+Word: [fairfax], counter: 210
+Word: [father], counter: 170
+Word: [feel], counter: 263
+Word: [frank], counter: 200
+Word: [friend], counter: 246
+Word: [give], counter: 204
+Word: [good], counter: 365
+Word: [great], counter: 266
+Word: [happi], counter: 201
+Word: [harriet], counter: 415
+Word: [hope], counter: 214
+Word: [jane], counter: 280
+Word: [knightlei], counter: 362
+Word: [made], counter: 199
+Word: [make], counter: 228
+Word: [man], counter: 219
+Word: [miss], counter: 612
+Word: [mr], counter: 1851
+Word: [talk], counter: 187
+Word: [thing], counter: 460
+Word: [thought], counter: 270
+Word: [time], counter: 310
+Word: [weston], counter: 397
+Word: [woodhous], counter: 282
+Word: [young], counter: 192
+
+Results for file: persuasion.txt
+~~~~~~~~~~~~~~~~
+
+Word: [ann], counter: 447
+Word: [bath], counter: 104
+Word: [captain], counter: 305
+Word: [charl], counter: 155
+Word: [dai], counter: 98
+Word: [elliot], counter: 259
+Word: [feel], counter: 157
+Word: [friend], counter: 106
+Word: [give], counter: 98
+Word: [good], counter: 191
+Word: [great], counter: 130
+Word: [happi], counter: 95
+Word: [hous], counter: 100
+Word: [ladi], counter: 238
+Word: [long], counter: 99
+Word: [louisa], counter: 99
+Word: [made], counter: 96
+Word: [make], counter: 117
+Word: [man], counter: 127
+Word: [mari], counter: 122
+Word: [miss], counter: 128
+Word: [mr], counter: 547
+Word: [musgrov], counter: 150
+Word: [room], counter: 100
+Word: [russel], counter: 118
+Word: [sir], counter: 149
+Word: [thought], counter: 103
+Word: [time], counter: 168
+Word: [walter], counter: 123
+Word: [wentworth], counter: 190
+
+Results for file: pride_and_prejudice.txt
+~~~~~~~~~~~~~~~~
+
+Word: [bennet], counter: 304
+Word: [binglei], counter: 260
+Word: [collin], counter: 156
+Word: [dai], counter: 170
+Word: [darci], counter: 374
+Word: [dear], counter: 158
+Word: [elizabeth], counter: 597
+Word: [famili], counter: 159
+Word: [feel], counter: 167
+Word: [friend], counter: 158
+Word: [give], counter: 148
+Word: [good], counter: 211
+Word: [great], counter: 144
+Word: [happi], counter: 155
+Word: [hope], counter: 168
+Word: [jane], counter: 264
+Word: [ladi], counter: 256
+Word: [letter], counter: 132
+Word: [make], counter: 212
+Word: [man], counter: 146
+Word: [manner], counter: 143
+Word: [miss], counter: 287
+Word: [mr], counter: 1128
+Word: [repli], counter: 133
+Word: [room], counter: 159
+Word: [sister], counter: 253
+Word: [thought], counter: 140
+Word: [time], counter: 224
+Word: [wickham], counter: 162
+Word: [young], counter: 134
+
+Dostoyevsky:
+
+
+Results for file: the_brothers_karamazov.txt
+~~~~~~~~~~~~~~~~
+
+Word: [alyosha], counter: 1183
+Word: [back], counter: 382
+Word: [began], counter: 364
+Word: [cri], counter: 499
+Word: [dai], counter: 662
+Word: [dmitri], counter: 371
+Word: [ey], counter: 356
+Word: [face], counter: 448
+Word: [father], counter: 758
+Word: [give], counter: 353
+Word: [god], counter: 382
+Word: [good], counter: 472
+Word: [hand], counter: 509
+Word: [heart], counter: 448
+Word: [ivan], counter: 682
+Word: [life], counter: 379
+Word: [long], counter: 381
+Word: [love], counter: 644
+Word: [made], counter: 368
+Word: [make], counter: 435
+Word: [man], counter: 851
+Word: [mitya], counter: 820
+Word: [moment], counter: 408
+Word: [monei], counter: 432
+Word: [smerdyakov], counter: 344
+Word: [suddenli], counter: 585
+Word: [thought], counter: 437
+Word: [time], counter: 799
+Word: [told], counter: 360
+Word: [word], counter: 429
+
+Results for file: the_idiot.txt
+~~~~~~~~~~~~~~~~
+
+Word: [aglaya], counter: 446
+Word: [ask], counter: 263
+Word: [cri], counter: 344
+Word: [dai], counter: 405
+Word: [ey], counter: 281
+Word: [face], counter: 319
+Word: [gania], counter: 335
+Word: [gener], counter: 553
+Word: [good], counter: 374
+Word: [great], counter: 234
+Word: [hand], counter: 315
+Word: [hous], counter: 330
+Word: [laugh], counter: 344
+Word: [lebedeff], counter: 321
+Word: [long], counter: 243
+Word: [love], counter: 290
+Word: [make], counter: 291
+Word: [man], counter: 465
+Word: [moment], counter: 361
+Word: [nastasia], counter: 387
+Word: [princ], counter: 1793
+Word: [rogojin], counter: 348
+Word: [room], counter: 286
+Word: [suddenli], counter: 260
+Word: [talk], counter: 238
+Word: [thing], counter: 308
+Word: [thought], counter: 413
+Word: [time], counter: 529
+Word: [turn], counter: 236
+Word: [word], counter: 407
+
+Results for file: crime_and_punishment.txt
+~~~~~~~~~~~~~~~~
+
+Word: [began], counter: 266
+Word: [cri], counter: 245
+Word: [dai], counter: 363
+Word: [door], counter: 239
+Word: [dounia], counter: 300
+Word: [ey], counter: 258
+Word: [face], counter: 292
+Word: [good], counter: 295
+Word: [hand], counter: 327
+Word: [head], counter: 206
+Word: [ivanovna], counter: 269
+Word: [katerina], counter: 215
+Word: [look], counter: 293
+Word: [made], counter: 232
+Word: [make], counter: 281
+Word: [man], counter: 463
+Word: [moment], counter: 208
+Word: [petrovitch], counter: 272
+Word: [put], counter: 220
+Word: [raskolnikov], counter: 724
+Word: [razumihin], counter: 325
+Word: [room], counter: 323
+Word: [sonia], counter: 370
+Word: [suddenli], counter: 293
+Word: [talk], counter: 203
+Word: [thing], counter: 249
+Word: [thought], counter: 331
+Word: [time], counter: 450
+Word: [turn], counter: 287
+Word: [word], counter: 231
+
+Results without stemming:
+
+
+Austen:
+
+
+Results for file: emma.txt
+~~~~~~~~~~~~~~~~
+
+Word: [body], counter: 164
+Word: [churchill], counter: 193
+Word: [day], counter: 186
+Word: [dear], counter: 241
+Word: [elton], counter: 320
+Word: [emma], counter: 785
+Word: [fairfax], counter: 210
+Word: [father], counter: 168
+Word: [frank], counter: 200
+Word: [friend], counter: 166
+Word: [give], counter: 158
+Word: [good], counter: 358
+Word: [great], counter: 265
+Word: [harriet], counter: 415
+Word: [hartfield], counter: 159
+Word: [jane], counter: 280
+Word: [knightley], counter: 355
+Word: [long], counter: 146
+Word: [made], counter: 199
+Word: [make], counter: 152
+Word: [man], counter: 219
+Word: [miss], counter: 600
+Word: [mr], counter: 1150
+Word: [mrs], counter: 701
+Word: [thing], counter: 398
+Word: [thought], counter: 226
+Word: [time], counter: 280
+Word: [weston], counter: 389
+Word: [woodhouse], counter: 278
+Word: [young], counter: 192
+
+Results for file: persuasion.txt
+~~~~~~~~~~~~~~~~
+
+Word: [anne], counter: 447
+Word: [bath], counter: 101
+Word: [captain], counter: 303
+Word: [charles], counter: 155
+Word: [elliot], counter: 253
+Word: [father], counter: 94
+Word: [found], counter: 83
+Word: [good], counter: 187
+Word: [great], counter: 130
+Word: [home], counter: 83
+Word: [house], counter: 94
+Word: [lady], counter: 213
+Word: [long], counter: 95
+Word: [louisa], counter: 99
+Word: [made], counter: 96
+Word: [make], counter: 88
+Word: [man], counter: 127
+Word: [mary], counter: 121
+Word: [miss], counter: 124
+Word: [mr], counter: 256
+Word: [mrs], counter: 291
+Word: [musgrove], counter: 111
+Word: [place], counter: 87
+Word: [russell], counter: 118
+Word: [sir], counter: 149
+Word: [thought], counter: 90
+Word: [time], counter: 152
+Word: [walter], counter: 123
+Word: [wentworth], counter: 190
+Word: [young], counter: 84
+
+Results for file: pride_and_prejudice.txt
+~~~~~~~~~~~~~~~~
+
+Word: [bennet], counter: 294
+Word: [bingley], counter: 256
+Word: [collins], counter: 156
+Word: [darcy], counter: 374
+Word: [day], counter: 140
+Word: [dear], counter: 158
+Word: [elizabeth], counter: 597
+Word: [family], counter: 152
+Word: [father], counter: 116
+Word: [give], counter: 123
+Word: [good], counter: 201
+Word: [great], counter: 142
+Word: [hope], counter: 121
+Word: [jane], counter: 264
+Word: [lady], counter: 182
+Word: [letter], counter: 116
+Word: [long], counter: 115
+Word: [lydia], counter: 132
+Word: [made], counter: 126
+Word: [make], counter: 167
+Word: [man], counter: 146
+Word: [miss], counter: 283
+Word: [mr], counter: 785
+Word: [mrs], counter: 343
+Word: [room], counter: 150
+Word: [sister], counter: 180
+Word: [thought], counter: 112
+Word: [time], counter: 203
+Word: [wickham], counter: 162
+Word: [young], counter: 130
+
+Dostoyevsky:
+
+
+Results for file: the_brothers_karamazov.txt
+~~~~~~~~~~~~~~~~
+
+Word: [alyosha], counter: 1183
+Word: [back], counter: 381
+Word: [began], counter: 364
+Word: [cried], counter: 476
+Word: [day], counter: 498
+Word: [dmitri], counter: 371
+Word: [eyes], counter: 323
+Word: [face], counter: 399
+Word: [father], counter: 713
+Word: [fyodorovitch], counter: 336
+Word: [god], counter: 370
+Word: [good], counter: 446
+Word: [great], counter: 331
+Word: [grushenka], counter: 324
+Word: [heart], counter: 376
+Word: [ivan], counter: 682
+Word: [life], counter: 379
+Word: [long], counter: 343
+Word: [looked], counter: 328
+Word: [love], counter: 467
+Word: [made], counter: 368
+Word: [man], counter: 851
+Word: [mitya], counter: 820
+Word: [moment], counter: 371
+Word: [money], counter: 432
+Word: [smerdyakov], counter: 344
+Word: [suddenly], counter: 585
+Word: [thought], counter: 395
+Word: [time], counter: 677
+Word: [told], counter: 360
+
+Results for file: the_idiot.txt
+~~~~~~~~~~~~~~~~
+
+Word: [aglaya], counter: 446
+Word: [asked], counter: 260
+Word: [colia], counter: 229
+Word: [cried], counter: 337
+Word: [day], counter: 276
+Word: [evgenie], counter: 217
+Word: [eyes], counter: 261
+Word: [face], counter: 276
+Word: [gania], counter: 335
+Word: [general], counter: 501
+Word: [good], counter: 340
+Word: [great], counter: 233
+Word: [house], counter: 310
+Word: [lebedeff], counter: 321
+Word: [long], counter: 217
+Word: [looked], counter: 216
+Word: [made], counter: 219
+Word: [make], counter: 209
+Word: [man], counter: 465
+Word: [moment], counter: 322
+Word: [nastasia], counter: 387
+Word: [people], counter: 211
+Word: [philipovna], counter: 217
+Word: [prince], counter: 1787
+Word: [rogojin], counter: 346
+Word: [room], counter: 259
+Word: [suddenly], counter: 260
+Word: [thought], counter: 349
+Word: [time], counter: 435
+Word: [word], counter: 216
+
+Results for file: crime_and_punishment.txt
+~~~~~~~~~~~~~~~~
+
+Word: [asked], counter: 187
+Word: [back], counter: 191
+Word: [began], counter: 266
+Word: [cried], counter: 241
+Word: [day], counter: 285
+Word: [door], counter: 227
+Word: [dounia], counter: 300
+Word: [eyes], counter: 246
+Word: [face], counter: 250
+Word: [good], counter: 277
+Word: [head], counter: 191
+Word: [ivanovna], counter: 269
+Word: [katerina], counter: 215
+Word: [looked], counter: 293
+Word: [made], counter: 232
+Word: [make], counter: 202
+Word: [man], counter: 463
+Word: [moment], counter: 195
+Word: [mother], counter: 194
+Word: [petrovitch], counter: 272
+Word: [porfiry], counter: 193
+Word: [put], counter: 188
+Word: [raskolnikov], counter: 724
+Word: [razumihin], counter: 324
+Word: [room], counter: 284
+Word: [sonia], counter: 370
+Word: [suddenly], counter: 293
+Word: [svidrigailov], counter: 193
+Word: [thought], counter: 306
+Word: [time], counter: 385
+
+
+===========================================================================
+
+Question 6c:
+~~~~~~~~~~~
+
+
+Results with stemming:
+
+
+Results for author: austen
+~~~~~~~~~~~~~~~~
+
+Word: [ann], counter: 454
+Word: [bennet], counter: 304
+Word: [captain], counter: 312
+Word: [dai], counter: 502
+Word: [darci], counter: 374
+Word: [dear], counter: 458
+Word: [elizabeth], counter: 688
+Word: [elton], counter: 340
+Word: [emma], counter: 786
+Word: [famili], counter: 335
+Word: [father], counter: 381
+Word: [feel], counter: 587
+Word: [felt], counter: 294
+Word: [friend], counter: 510
+Word: [give], counter: 450
+Word: [good], counter: 767
+Word: [great], counter: 540
+Word: [happi], counter: 451
+Word: [harriet], counter: 417
+Word: [hear], counter: 289
+Word: [home], counter: 285
+Word: [hope], counter: 464
+Word: [hous], counter: 314
+Word: [jane], counter: 545
+Word: [knightlei], counter: 362
+Word: [ladi], counter: 607
+Word: [letter], counter: 325
+Word: [long], counter: 381
+Word: [love], counter: 337
+Word: [made], counter: 421
+Word: [make], counter: 557
+Word: [man], counter: 492
+Word: [manner], counter: 347
+Word: [marri], counter: 324
+Word: [miss], counter: 1027
+Word: [mr], counter: 3526
+Word: [place], counter: 283
+Word: [return], counter: 286
+Word: [room], counter: 391
+Word: [sir], counter: 293
+Word: [sister], counter: 381
+Word: [speak], counter: 305
+Word: [talk], counter: 387
+Word: [thing], counter: 596
+Word: [thought], counter: 513
+Word: [time], counter: 702
+Word: [walk], counter: 367
+Word: [weston], counter: 397
+Word: [woodhous], counter: 282
+Word: [young], counter: 410
+
+
+Results for author: dostoyevsky
+~~~~~~~~~~~~~~~~
+
+Word: [alyosha], counter: 1183
+Word: [ask], counter: 743
+Word: [back], counter: 728
+Word: [began], counter: 826
+Word: [cri], counter: 1088
+Word: [dai], counter: 1430
+Word: [ey], counter: 895
+Word: [face], counter: 1059
+Word: [fact], counter: 592
+Word: [father], counter: 961
+Word: [feel], counter: 683
+Word: [gener], counter: 720
+Word: [give], counter: 692
+Word: [good], counter: 1141
+Word: [great], counter: 733
+Word: [hand], counter: 1151
+Word: [head], counter: 585
+Word: [heard], counter: 582
+Word: [heart], counter: 781
+Word: [hous], counter: 715
+Word: [ivan], counter: 753
+Word: [laugh], counter: 831
+Word: [life], counter: 721
+Word: [long], counter: 822
+Word: [look], counter: 837
+Word: [love], counter: 1043
+Word: [made], counter: 819
+Word: [make], counter: 1007
+Word: [man], counter: 1779
+Word: [mind], counter: 614
+Word: [mitya], counter: 820
+Word: [moment], counter: 977
+Word: [monei], counter: 781
+Word: [peopl], counter: 689
+Word: [princ], counter: 1800
+Word: [put], counter: 719
+Word: [question], counter: 649
+Word: [raskolnikov], counter: 724
+Word: [rememb], counter: 629
+Word: [room], counter: 891
+Word: [speak], counter: 679
+Word: [suddenli], counter: 1138
+Word: [talk], counter: 780
+Word: [thing], counter: 882
+Word: [thought], counter: 1181
+Word: [time], counter: 1778
+Word: [told], counter: 695
+Word: [turn], counter: 855
+Word: [understand], counter: 699
+Word: [word], counter: 1067
+
+Results without stemming:
+
+
+
+Results for author: austen
+~~~~~~~~~~~~~~~~
+
+Word: [anne], counter: 454
+Word: [bennet], counter: 294
+Word: [bingley], counter: 256
+Word: [captain], counter: 310
+Word: [darcy], counter: 374
+Word: [day], counter: 400
+Word: [dear], counter: 455
+Word: [elizabeth], counter: 687
+Word: [elliot], counter: 253
+Word: [elton], counter: 320
+Word: [emma], counter: 786
+Word: [family], counter: 309
+Word: [father], counter: 378
+Word: [feelings], counter: 263
+Word: [felt], counter: 294
+Word: [friend], counter: 347
+Word: [give], counter: 360
+Word: [good], counter: 746
+Word: [great], counter: 537
+Word: [half], counter: 249
+Word: [happy], counter: 271
+Word: [harriet], counter: 417
+Word: [heard], counter: 271
+Word: [home], counter: 281
+Word: [hope], counter: 317
+Word: [house], counter: 296
+Word: [jane], counter: 545
+Word: [knightley], counter: 355
+Word: [lady], counter: 463
+Word: [letter], counter: 258
+Word: [long], counter: 356
+Word: [love], counter: 249
+Word: [made], counter: 421
+Word: [make], counter: 407
+Word: [man], counter: 492
+Word: [mind], counter: 249
+Word: [miss], counter: 1007
+Word: [mr], counter: 2191
+Word: [mrs], counter: 1335
+Word: [place], counter: 255
+Word: [room], counter: 349
+Word: [sir], counter: 293
+Word: [sister], counter: 279
+Word: [thing], counter: 481
+Word: [thought], counter: 428
+Word: [till], counter: 247
+Word: [time], counter: 635
+Word: [weston], counter: 389
+Word: [woodhouse], counter: 278
+Word: [young], counter: 406
+
+
+Results for author: dostoyevsky
+~~~~~~~~~~~~~~~~
+
+Word: [alyosha], counter: 1183
+Word: [asked], counter: 723
+Word: [back], counter: 723
+Word: [began], counter: 826
+Word: [cried], counter: 1054
+Word: [day], counter: 1059
+Word: [door], counter: 544
+Word: [eyes], counter: 830
+Word: [face], counter: 925
+Word: [father], counter: 913
+Word: [felt], counter: 515
+Word: [general], counter: 581
+Word: [give], counter: 613
+Word: [god], counter: 541
+Word: [good], counter: 1063
+Word: [great], counter: 727
+Word: [hand], counter: 598
+Word: [head], counter: 538
+Word: [heard], counter: 582
+Word: [heart], counter: 674
+Word: [house], counter: 672
+Word: [ivan], counter: 753
+Word: [ivanovna], counter: 521
+Word: [left], counter: 571
+Word: [life], counter: 721
+Word: [long], counter: 742
+Word: [looked], counter: 837
+Word: [love], counter: 720
+Word: [made], counter: 819
+Word: [make], counter: 734
+Word: [man], counter: 1779
+Word: [mind], counter: 564
+Word: [mitya], counter: 820
+Word: [moment], counter: 888
+Word: [money], counter: 781
+Word: [mother], counter: 539
+Word: [people], counter: 687
+Word: [prince], counter: 1793
+Word: [put], counter: 640
+Word: [raskolnikov], counter: 724
+Word: [room], counter: 800
+Word: [suddenly], counter: 1138
+Word: [thing], counter: 507
+Word: [thought], counter: 1050
+Word: [time], counter: 1497
+Word: [told], counter: 695
+Word: [understand], counter: 630
+Word: [woman], counter: 548
+Word: [word], counter: 567
+Word: [young], counter: 539

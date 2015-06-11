@@ -1,0 +1,1 @@
+You can run it on  Dostoyevsky/Austin text from http://www.gutenberg.org/wiki/Main_Page
